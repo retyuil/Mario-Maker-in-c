@@ -6,8 +6,8 @@ For blocks and ground the text file contain the x,y coordinates and the size of 
 and the lower and upper bound for the goomba movements.
 
 TO DO :
--ADD all the enemy of super mario bros (nes)
--ADD proper background customisation
--Create a GUI for creating the map
--Import sprites and enemy from different marios games
--Optimise the collision detection and the redering.
+- ADD all the enemy of super mario bros (nes)
+- ADD proper background customisation
+- Create a GUI for creating the map
+- Import sprites and enemy from different marios games
+- Optimise the collision detection and the redering.
