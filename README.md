@@ -10,4 +10,4 @@ TO DO :
 - ADD proper background customisation
 - Create a GUI for creating the map
 - Import sprites and enemy from different marios games
-- Optimise the collision detection and the redering.
+- Optimise the collision detection and the rendering.
